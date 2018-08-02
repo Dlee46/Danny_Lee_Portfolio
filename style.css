@@ -18,9 +18,33 @@ a.social-link.rounded-circle.text-white{
      */
      background: #212529;
 }
+img.img-fluid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+}
 .masthead h1 {
     color: #f8f9fa !important;
       }
 em{
     color: #f8f9fa !important;
+}
+h2.text-secondary{
+    color: #212529 !important;
+}
+img.headshot{
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+    margin-bottom: 5%;
+}
+.mustard {
+    background-color: rgba(0,0,0,0.5);
+    padding: 5%;
+}
+h2.mustard {
+    margin-bottom: 0;
+    text-align: center;
 }
