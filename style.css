@@ -1,0 +1,26 @@
+.bg-primary{
+    background-color: #212529 !important;
+  }
+  i.fa-react:before{
+      color: black;
+  }
+  i.fa-node-js:before{
+      color: black;
+  }
+a.social-link.rounded-circle.text-white{
+    background-color: #212529;
+}
+#sidebar-wrapper {
+    background-color: #212529;
+}
+.masthead{
+    /* background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%)
+     */
+     background: #212529;
+}
+.masthead h1 {
+    color: #f8f9fa !important;
+      }
+em{
+    color: #f8f9fa !important;
+}
