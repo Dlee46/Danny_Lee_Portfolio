@@ -38,7 +38,7 @@ img.headshot{
     height: 20%;
     width: 20%;
     border-radius: 50%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 .mustard {
     background-color: rgba(0,0,0,0.5);
@@ -53,4 +53,10 @@ h2{
 }
 p{
     font-family: 'Caveat', cursive;
+    font-weight: 300;
+}
+h3{
+    color: #f8f9fa !important;
+    font-family: 'Amatic SC', cursive;
+
 }
